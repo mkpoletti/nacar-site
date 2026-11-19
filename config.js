@@ -2,15 +2,15 @@ window.SITE = {
   nome: "Nácar · Medicina Dentária",
 
   whatsapp: {
-    numero: "351910000000", // só dígitos, com indicativo 351
-    mensagem: "Olá, gostaria de marcar uma consulta de avaliação.",
+    numero: "5521966289500", // projeto conceito: as mensagens vão para a Meta Designer
+    mensagem: "Olá! Vi o projeto Nácar no portfólio da Meta Designer e quero um site assim.",
   },
 
   contato: {
-    email: "consultas@nacar.pt",
+    email: "mike.polettiaarte@gmail.com", // projeto conceito: pedidos chegam à Meta Designer
     // Opcional: chave do Web3Forms (https://web3forms.com). Se vazio, usa FormSubmit.
     web3formsChave: "",
-    assunto: "Novo pedido de consulta pelo site Nácar",
+    assunto: "Contacto pelo projeto conceito Nácar",
   },
 
   frames: {
